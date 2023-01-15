@@ -124,6 +124,7 @@ submit.addEventListener('click', function(){
         article.remove();
         boxA.remove();
     })
+    
 })
 
 
